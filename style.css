@@ -66,5 +66,26 @@ border-radius: 16px;
 }
 .weather-body img{
     width: 60%;
-    height: 20px;
+    
+}
+.weather-box{
+    margin: 20px;
+    text-align:center ;
+}
+.weather-box .temperature{
+    font-size: 40px;
+  position: absolute;
+  font-weight: 600;
+
+}
+.weather-box .temperature sup{
+    font-size: 20px;
+    position: relative;
+    font-weight: 800;
+}
+.weather-box .description{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    
 }
