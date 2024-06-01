@@ -66,4 +66,5 @@ border-radius: 16px;
 }
 .weather-body img{
     width: 60%;
+    height: 20px;
 }
